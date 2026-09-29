@@ -10,6 +10,5 @@ My Skills
 
 My goal is to build on my skills to innovate, develop useful applications, and be able to contribute to the wonderful world of Technology. Down below will showcase a few projects I have completed so far.
 
-**capri11-ui/capri11-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
